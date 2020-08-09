@@ -24,7 +24,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000005397ENUS/Controls-and-Software-Engineer-Intern-Global-Product-Group)| Michigan | |
 |[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various  ||
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | New York, Chicago | Software Engineering, Mid-Frequency Algo|
-|[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading intern |
+|[IMC Trading](https://careers.imc.com/us/en/c/internships-jobs)| Chicago | Hardware Engineering, Software Engineering, Quant Trading Intern |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-2429102/xf-3786f0ce9359/candidate/so/pm/1/pl/1/opp/9768-2021-Technology-Summer-Analyst-Program-New-York/en-GB) | New York| |
 |[Pimco](https://careers.pimco.com/careers/SearchJobs/?listFilterMode=1&794=%5B%7B%22%24JSNType%22%3A%22dataset_Option%22%2C%22value%22%3A%7B%22id%22%3A1262%2C%22name%22%3Anull%7D%7D%5D&794_format=659)| Austin, Newport Beach| Software Engineering, Data Science |
 |[TD Bank](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5601&jobid=2610199&codes=UE4#jobDetails=2610199_5601)| NYC| |
@@ -42,38 +42,38 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/jobs) | Boston | Quantitative Developer, Data Science, Research Systems, Research Associate |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=%22software%20engineer%20intern%22&location=&facetcountry=us) | Various | |
 |[Discover](https://jobs.discover.com/job/11209494/2021-business-technology-internship-program-houston-undergraduate-houston-tx/) | Houston | |
-|[Prudential](https://jobs.prudential.com/job-description.php?jobReqNo=TA%200002M&IsThisACampusRequisition=Yes) | Newark, NJ | Application period 1 ends September 1st, period 2 ends October 1st |
+|[Prudential](https://jobs.prudential.com/job-description.php?jobReqNo=TA%200002M&IsThisACampusRequisition=Yes) | Newark, NJ | Application Period 1 ends September 1st, Period 2 ends October 1st |
 |[Neeva](https://jobs.lever.co/neeva/6111dabf-6e9c-4230-b780-d879f7bf63f3/apply?lever-source=PittCSC)| Mountain View, CA | |
 |[Squarepoint Capital](https://www.squarepoint-capital.com/job#462517) | NY, London, Singapore, Montreal | |
 |[Cambly](https://jobs.lever.co/cambly/96ea4732-5f6a-4027-9695-20cbb650bede/apply?lever-source=PittCSC) | San Francisco | |
-|[Nuro](https://nuro.ai/careersitem?gh_jid=1785972&gh_src=pittcsc) | Mountain View | Have more [internships here](https://nuro.ai/careers) |
+|[Nuro](https://nuro.ai/careersitem?gh_jid=1785972&gh_src=pittcsc) | Mountain View | Have more [Internships Here](https://nuro.ai/careers) |
 |[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=6666&source=PittCSC)| New York NY | |
 |[Zapata Computing](https://zapata.bamboohr.com/jobs/view.php?id=67&source=pittcsc) | Boston, MA| |
-|[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The application period runs from 1 May - 15 October 2020 |
-|[MealMe](https://www.mealme.ai/careers) |  | Also has Fall internships |
-|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC | See issues [25](https://github.com/Pitt-CSC/Summer2021-Internships/issues/25) and [30](https://github.com/Pitt-CSC/Summer2021-Internships/issues/30)|
+|[National Security Agency](https://apply.intelligencecareers.gov/job-description/1145701?fbclid=IwAR0m_4RIc9BsP0VvR4kN139YN4IMN63xIfOKob3pnv6nWKqit3ZFjD4SOFE) | Fort Meade, MD | The Application Period runs From 1 May - 15 October 2020 |
+|[MealMe](https://www.mealme.ai/careers) |  | Also has Fall Internships |
+|[Vanguard](https://www.vanguardjobs.com/job-search-results/?keyword=%2211050430%22%20OR%20%2211050428%22%20OR%20%2211050431%22%20OR%20%2211050429%22) | Malvern, PA or Charlotte, NC | See Issues [25](https://github.com/Pitt-CSC/Summer2021-Internships/issues/25) and [30](https://github.com/Pitt-CSC/Summer2021-Internships/issues/30)|
 |[Abbvie](https://careers.abbvie.com/abbvie/jobs/2005191?lang=en-us&previousLocale=en-US) | Chicago | |
 |[Optiver](https://www.optiver.com/na/en/job-opportunities/Campus/all/Chicago/) | Chicago | |
 |[BASF](https://basf.jobs/light_green_NA/job/Florham-Park-Professional-Development-Program-%28PDP%29-Internship-Data-Science-Summer-2021-NJ-07932/611553501/?feedId=111101&src=PittCSC)| New Jersey | Data Science Internship |
 |[Moody's Analytics](https://careers.moodys.com/jobs/18781BR-2021-engineering-and-technology-summer-internship-new-york-omaha-san-francisco-waltham-west-chester/) | NY, SF, Omaha, Waltham, West Chester | Engineering and Tech Internship|
 |[Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | |
 |[Citrix](https://jobs.citrix.com/job/R22175/Software-Engineer-Intern-2021?utm_campaign=pittcsc&utm_source=pittcsc&utm_medium=organic) | Florida | |
-|[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are eligible) |
+|[Central Intelligence Agency (CIA)](https://www.cia.gov/careers/student-opportunities/undergraduate-internship-co-op-program-software-engineer.html) | Washington, D.C. | Must be US Citizen (Dual-Citizens are Eligible) |
 |[Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) | US & Canada | |
 |[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ238487EXTERNALENUS/Computer-Software-Engineer-Computer-Science-Summer-2021-Intern-Co-Op?utm_source=PittCSC)| Various | | 
 |[Palantir](https://jobs.lever.co/palantir/?commitment=Internship&src=PittCSC) | Various | |
 |[Chick-fil-a](https://careers-chickfila.icims.com/jobs/8344/2021-digital-transformation-and-technology-software-engineering-summer-intern/job) | Atlanta | |
-|[Robinhood](https://careers.robinhood.com/openings?gh_jid=2214478&gh_src=PittCSC) | Menlo Park, CA | More [positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two application max |
+|[Robinhood](https://careers.robinhood.com/openings?gh_jid=2214478&gh_src=PittCSC) | Menlo Park, CA | More [Positions](https://boards.greenhouse.io/robinhood?gh_src=PittCSC) here, two Application Max |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/151240/Software-Engineering-Intern-Summer-2021-Seattle-WA?utm_source=PittCSC) | Seattle, Provo | Separate links for Seattle and [Provo](https://www.qualtrics.com/careers/us/en/job/QUALUS87166EXTERNALENUS/Software-Engineering-Intern-Summer-2021-Provo-UT?utm_source=PittCSC) 
-|[Scale AI](https://jobs.lever.co/scaleai/c82fd6f5-daa9-42b5-8183-4af35c33ca03/apply?lever-source=PittCSC) | San Francisco, CA | "Intern SWE" position | 
-|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International students on F-1 Visa may not be considered |
+|[Scale AI](https://jobs.lever.co/scaleai/c82fd6f5-daa9-42b5-8183-4af35c33ca03/apply?lever-source=PittCSC) | San Francisco, CA | "Intern SWE" Position | 
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210013662/?utm_medium=jobshare&utm_source=PittCSC) | Various | International Students on F-1 Visa May not be Considered |
 |[NASA JPL](https://jpl.jobs/jobs/2020-12296-Software-Engineering-Summer-Internships) | Pasadena, California | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=PittCSC) | Pittsburgh, PA | |
 |[Red Ventures](https://careers.redventures.com/application/position/2250124?gh_jid=2250124&gh_src=PittCSC)| Charlotte, NC | |
 |[Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | |
 |[Texas Instruments](https://careers.ti.com/job/11279389/software-engineering-intern-dallas-tx/) | Dallas, TX | |
 |[Los Alamos National Laboratory](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1759536200&retainAM=N&addBreadCrumb=RP&p_svid=81425&p_spid=3628350)| Los Alamos, NM| |
-|[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | Coursera opens and closes the app at random intervals. If its closed for now check again later! | 
+|[Coursera](https://jobs.lever.co/coursera/79db349e-159d-4697-bdd6-b292011a9ce3/apply?lever-source=PittCSC) | Mountain View | Coursera Opens and Closes the App at Random Intervals. If its Closed for Now Check Again Later! | 
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2021-Internship-Meraki/1299493) | San Francisco | |
 |[UnifyID](https://jobs.lever.co/unify/dca0a7bd-41ab-4f24-a1c3-3176520f7437) | Redwood City, CA | More Internships [here](https://unify.id/careers/#open-positions) |
 |[SimpliSafe](https://boards.greenhouse.io/simplisafe/jobs/2256322?utm_source=PittCSC) | Boston | |
@@ -82,13 +82,13 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[General Mills](https://careers.generalmills.com/job/11290990/) | Minneapolis, MN | |
 |[Wells Fargo](https://www.wellsfargojobs.com/job/-/-/1251/17013739?utm_source=PittCSC&utm_medium=organic&utm_campaign=PittCSC) | Various | |
 |[Valkyrie Trading](https://jobs.lever.co/valkyrietrading/2da1578a-7a20-41db-83bd-cb16e4e8a112?utm_campaign=PittCSC&utm_source=PittCSC&utm_medium=organic) | Chicago, IL | |
-|[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend position here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
+|[IBM](https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en) | Various | [Backend Position Here](https://careers.ibm.com/ShowJob/Id/961980/Back-End-Developer-Summer-Intern-2021/?lang=en)|
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007833) | New York, Pittsburgh, Jersey City | |
 |[Motorola](https://motorolasolutions.zrapply.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R7477?utm_source=PittCSC) | Schaumberg, IL | |
 |[Cargill](https://cargill.taleo.net/careersection/10240/jobdetail.ftl?tz=GMT-05%3A00&job=UNI05923&utm_source=PittCSC)| Hopkins, MN | |
 |[Raytheon](https://jobs.rtx.com/job/cedar-rapids/software-engineering-intern-summer-2021/4679/17012124?utm_source=PittCSC)| Cedar Rapids, IA | |
 
-Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or submit [an issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd like to contribute too! 🙏
+Huge Shout-out to our Contributors! Fill [this survey](https://bit.ly/3d5O76c), Make a [Pull Request](https://github.com/susam/gitpr#create-pull-request), or Submit [an Issue](https://github.com/Pitt-CSC/Summer2021-Internships/issues) if you'd Like to Contribute Too! 🙏
 
 * [Sherlemious](https://github.com/Sherlemious)
 * [JackGoldsworth](https://github.com/JackGoldsworth)
@@ -101,6 +101,7 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [bwaits2](https://github.com/bwaits2)
 * [garciajess](https://github.com/garciajess)
 * [zejunliu](https://github.com/zejunliu)
+* [Anish-Ghimire](https://github.com/anishghimire603)
 * [coffeeologist](https://github.com/coffeeologist)
 * [rashmi-ravishankar](https://github.com/rashmi-ravishankar)
 * [BaruYogesh](https://github.com/BaruYogesh)
@@ -131,4 +132,4 @@ Huge shout-out to our contributors! Fill [this survey](https://bit.ly/3d5O76c), 
 * [Leundai](https://github.com/Leundai)
 
 
-Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the inspiration! 🐐 
+Thanks to [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) for the Inspiration! 🐐 
